@@ -1,6 +1,6 @@
 Trabalhos realizados em disciplinas da Especialização em Ciência de Dados - PUCRS
 
-- Deep Learning II - Classificação de linguagem tóxica a partir de base de dados com tweets utilizando modelos de aprendizado profundo com as bibliotecas Keras e Tensor Flow
+- Deep Learning II - Classificação de linguagem tóxica a partir de base de dados com tweets utilizando modelos de aprendizado profundo com as bibliotecas Keras e Tensor Flow.
 
 - KDD - Pré-processamento, EDA e Data Mining em bases com comentários do Reddit, dados de cartões de crédito e dados de saúde para detecção de câncer, utilizando bibliotecas como Numpy, Pandas, Scikit-Learn, Matplotlib e Seaborn.
 
